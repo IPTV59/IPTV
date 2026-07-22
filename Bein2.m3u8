@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-https://hls.iptv-th.workers.dev/live/52/playlist.m3u8 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-https://hls.iptv-th.workers.dev/live/52/chunks.m3u8 
+https://flow.dooflixlive.com/dooflix_x1/bein2/chunks.m3u8?nimblesessionid=8745131&wmsAuthSign=c2VydmVyX3RpbWU9MDcvMjIvMjAyNiAwODozNjozMyBQTSZoYXNoX3ZhbHVlPWZNVFBJaTVHeE9IdHJ1RWI1R0FGTmc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzQ2NDI4
