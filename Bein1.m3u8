@@ -2,3 +2,8 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776210&extension=m3u8 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+https://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776210.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/177210.m3u8 
+
